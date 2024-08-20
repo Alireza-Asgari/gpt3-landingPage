@@ -25,16 +25,16 @@ const Footer = () => {
             <h4>Links</h4>
           </li>
           <li>
-            <a href="#">Overons</a>
+            <p>Overons</p>
           </li>
           <li>
-            <a href="#">Social Media</a>
+            <p>Social Media</p>
           </li>
           <li>
-            <a href="#">Counters</a>
+            <p>Counters</p>
           </li>
           <li>
-            <a href="#">Contact</a>
+            <p>Contact</p>
           </li>
         </ul>
         <ul className="gpt3__footer-links_ul">
@@ -43,13 +43,13 @@ const Footer = () => {
             <h4>Get in touch</h4>
           </li>
           <li>
-            <a href="#">Crechterwoord K12 182 DK Alknjkcb</a>
+            <p>Crechterwoord K12 182 DK Alknjkcb</p>
           </li>
           <li>
-            <a href="#">085-132567</a>
+            <p>085-132567</p>
           </li>
           <li>
-            <a href="#">info@payme.net</a>
+            <p>info@payme.net</p>
           </li>
         </ul>
         <ul className="gpt3__footer-links_ul">
@@ -58,18 +58,18 @@ const Footer = () => {
             <h4>Company</h4>
           </li>
           <li>
-            <a href="#">Terms & Conditions</a>
+            <p>Terms & Conditions</p>
           </li>
           <li>
-            <a href="#">Privacy Policy</a>
+            <p>Privacy Policy</p>
           </li>
           <li>
-            <a href="#">Contact</a>
+            <p>Contact</p>
           </li>
         </ul>
       </div>
       <div className="gpt3__footer-copyright">
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2024 GPT-3. All rights reserved.</p>
       </div>
     </footer>
   );
