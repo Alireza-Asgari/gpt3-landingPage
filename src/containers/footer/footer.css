@@ -63,7 +63,7 @@
   color: #fff;
   margin-bottom: 0.5rem;
 }
-.gpt3__footer-links_ul a {
+.gpt3__footer-links_ul p {
   font-family: var(--font-family);
   font-size: 14px;
   line-height: 14px;
